@@ -15,7 +15,4 @@ public class Kisi  {
         kisiSayisi++;
     }
 
-    public Kisi() {
-
-    }
 }
